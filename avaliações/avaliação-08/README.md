@@ -1,6 +1,7 @@
 #README.md da oitava avaliação#
 ![Alt text](image.png)
 *Segue atividade*
+<img alt="bancodedados.jpg"  align="right"  height="270cm" src="https://github.com/thalitaasuzy/bd-info-p4/assets/112733274/873a8d1f-b879-45fb-b6d1-8e1b3dc98ba4" />
 *Criar o esquema (código SQL) que cria as tabelas e os relacionamentos do modelo anexo.*
   
 *Os seguintes atributos devem seguir as seguintes regras:*
